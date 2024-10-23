@@ -3,7 +3,7 @@ public class MaxiDiscount implements Rabattstrategie{
 
 
     @Override
-    public String getname() {
+    public String getStrategie() {
         return "Maxidiscount";
     }
 

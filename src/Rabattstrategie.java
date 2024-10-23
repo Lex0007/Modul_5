@@ -1,4 +1,4 @@
 public interface Rabattstrategie {
-    String getname();
+    String getStrategie();
     double getPreis(double preisOhneNachlass);
 }

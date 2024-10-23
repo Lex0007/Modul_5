@@ -10,3 +10,6 @@ Alle Parameter eingegeben und getter und setter erstellt
 ### Alle Preisstrategien 
 Für jede Preisstrategie eine eigene Klasse erstellt und das Interface als Superklasse implementiert. Alle Rechnungen passend gemacht
 
+### App
+Alle wichtigen Methoden getestet ob sie funktioneren. 
+Fehler ausgebessert

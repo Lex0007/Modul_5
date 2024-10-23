@@ -10,6 +10,7 @@ public class Angebot {
         this.regulaerpreis = regulaerpreis;
         this.flugdatum = flugdatum;
         this.flugnummer = flugnummer;
+        setRabattstrategie();
     }
 
     public void setRabattstrategie() {

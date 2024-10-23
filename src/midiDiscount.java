@@ -1,6 +1,6 @@
 public class midiDiscount implements Rabattstrategie{
     @Override
-    public String getname() {
+    public String getStrategie() {
         return "midiDiscount";
     }
 

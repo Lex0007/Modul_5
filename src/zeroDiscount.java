@@ -1,6 +1,6 @@
 public class zeroDiscount implements Rabattstrategie{
     @Override
-    public String getname() {
+    public String getStrategie() {
         return "zeroDiscount";
     }
 
